@@ -268,7 +268,7 @@ If a test fails due to HuggingFace download latency, run the app once to let the
 
 ---
 
-## What you already implemented (summary)
+## (summary)
 
 * FastAPI backend with content + CF hybrid recommender.
 * CF training script `backend/train_cf.py` using truncated SVD.
@@ -277,23 +277,6 @@ If a test fails due to HuggingFace download latency, run the app once to let the
 * Logging, latency middleware, metrics endpoint, admin retrain endpoint with API key dependency.
 * A `run.py` wrapper using `backend/config.py`.
 * A `tests/test_app.py` (pytest) basic test suite.
-
----
-
-## Next recommended steps (optional / future)
-
-1. Replace CSV storage with SQLite or Postgres (for persistence & concurrency).
-2. Add more robust offline evaluation (train/test split + metrics).
-3. Add CI (GitHub Actions) to run tests automatically.
-4. Containerize with Docker (Dockerfile & docker-compose).
-5. Add more unit tests for `recommender.py`, `train_cf.py`, and sentiment wrapper.
-
----
-
-## License & Contact
-
-Add your license or project owner details here (e.g., MIT License).
-If you want, I can generate a short `LICENSE` file and a polished `README` variant for publishing on GitHub.
 
 ---
 
