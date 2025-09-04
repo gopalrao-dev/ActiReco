@@ -1,0 +1,59 @@
+2025-08-27 22:38:26 | INFO | ActiReco | 🚀 ActiReco API started
+2025-08-27 22:38:26 | INFO | ActiReco | ActiReco API started
+2025-08-28 09:18:40 | INFO | ActiReco | 🚀 ActiReco API started
+2025-08-28 09:18:40 | INFO | ActiReco | ActiReco API started
+2025-08-28 09:24:14 | INFO | ActiReco | GET / → status=404 latency=37.81ms
+2025-08-28 09:24:14 | INFO | ActiReco | GET /favicon.ico → status=404 latency=46.47ms
+2025-08-28 09:24:22 | INFO | ActiReco | GET /docs → status=200 latency=20.35ms
+2025-08-28 09:24:22 | INFO | ActiReco | GET /openapi.json → status=200 latency=180.50ms
+2025-08-28 09:26:58 | INFO | ActiReco | GET /docs → status=200 latency=5.65ms
+2025-08-28 09:26:58 | INFO | ActiReco | GET /openapi.json → status=200 latency=9.81ms
+2025-08-28 10:07:45 | INFO | ActiReco | 🛑 ActiReco API shutting down
+2025-08-28 10:07:45 | INFO | ActiReco | ActiReco API shutting down
+2025-08-28 10:09:17 | INFO | ActiReco | 🚀 ActiReco API started
+2025-08-28 10:09:17 | INFO | ActiReco | ActiReco API started
+2025-08-28 10:09:17 | INFO | ActiReco | 🛑 ActiReco API shutting down
+2025-08-28 10:09:17 | INFO | ActiReco | ActiReco API shutting down
+2025-08-28 10:10:37 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2025-08-28 10:10:38 | INFO | ActiReco | 🚀 ActiReco API started
+2025-08-28 10:10:38 | INFO | ActiReco | ActiReco API started
+2025-08-28 10:14:42 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2025-08-28 10:14:42 | INFO | ActiReco | 🚀 ActiReco API started
+2025-08-28 10:14:42 | INFO | ActiReco | ActiReco API started
+2025-08-28 10:16:46 | INFO | ActiReco | GET /docs → status=200 latency=3.45ms
+2025-08-28 10:16:47 | INFO | ActiReco | GET /openapi.json → status=200 latency=91.23ms
+2025-08-28 10:51:30 | INFO | ActiReco | 🛑 ActiReco API shutting down
+2025-08-28 10:51:30 | INFO | ActiReco | ActiReco API shutting down
+2025-08-28 10:52:18 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2025-08-28 10:52:18 | INFO | ActiReco | 🚀 ActiReco API started
+2025-08-28 10:52:18 | INFO | ActiReco | ActiReco API started
+2025-08-28 11:04:42 | INFO | ActiReco | 🛑 ActiReco API shutting down
+2025-08-28 11:04:42 | INFO | ActiReco | ActiReco API shutting down
+2025-08-28 11:08:39 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2025-08-28 11:08:39 | INFO | ActiReco | 🚀 ActiReco API started
+2025-08-28 11:08:39 | INFO | ActiReco | ActiReco API started
+2025-08-28 11:15:05 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2025-08-28 11:15:05 | INFO | ActiReco | 🚀 ActiReco API started
+2025-08-28 11:15:05 | INFO | ActiReco | ActiReco API started
+2025-08-28 11:26:40 | INFO | ActiReco | 🛑 ActiReco API shutting down
+2025-08-28 11:26:40 | INFO | ActiReco | ActiReco API shutting down
+2025-08-28 11:28:47 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2025-08-28 11:28:47 | INFO | ActiReco | 🚀 ActiReco API started
+2025-08-28 12:49:59 | INFO | ActiReco | 🛑 ActiReco API shutting down
+2025-08-28 12:51:06 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2025-08-28 12:51:06 | INFO | ActiReco | 🚀 ActiReco API started
+2025-08-28 15:32:04 | INFO | ActiReco | 🛑 ActiReco API shutting down
+2025-08-28 15:34:18 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2025-08-28 15:34:18 | INFO | ActiReco | 🚀 ActiReco API started
+2025-08-28 21:46:49 | INFO | ActiReco | 🛑 ActiReco API shutting down
+2025-08-28 21:48:44 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2025-08-28 21:48:44 | INFO | ActiReco | ActiReco API starting up
+2025-08-28 21:48:44 | INFO | ActiReco | Running in debug=False
+2025-09-04 16:49:01 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2025-09-04 16:49:01 | INFO | ActiReco | ActiReco API starting up
+2025-09-04 16:49:01 | INFO | ActiReco | Running in debug=False
+2025-09-04 16:49:22 | INFO | ActiReco | GET / → status=404 latency=2.29ms
+2025-09-04 16:49:24 | INFO | ActiReco | GET /favicon.ico → status=404 latency=0.45ms
+2025-09-04 16:49:31 | INFO | ActiReco | GET /health → status=200 latency=278.25ms
+2025-09-04 16:49:41 | INFO | ActiReco | GET /docs → status=200 latency=1.04ms
+2025-09-04 16:49:42 | INFO | ActiReco | GET /openapi.json → status=200 latency=73.60ms
