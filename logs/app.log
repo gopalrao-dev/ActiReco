@@ -131,3 +131,4 @@
 2026-03-24 09:37:59 | INFO | ActiReco | GET /docs → status=200 latency=19.66ms
 2026-03-24 09:38:01 | INFO | ActiReco | GET /openapi.json → status=200 latency=1185.88ms
 2026-03-24 10:39:25 | INFO | ActiReco | OPTIONS /recommend_with_mood → status=200 latency=116.00ms
+2026-03-24 10:39:49 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=23781.79ms
