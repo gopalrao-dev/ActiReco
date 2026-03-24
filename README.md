@@ -7,6 +7,13 @@
 
 **ActiReco** is a hybrid recommender system (content-based + collaborative filtering) with optional sentiment-aware recommendations.  
 It provides a FastAPI backend, model training scripts, CF trainer (SVD), and a HuggingFace sentiment pipeline.
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)  
+![FastAPI](https://img.shields.io/badge/FastAPI-0.95%2B-teal)  
+![Tests](https://img.shields.io/badge/tests-passing-green)  
+![License](https://img.shields.io/badge/license-MIT-lightgrey)  
+
+**ActiReco** is a hybrid recommender system (content-based + collaborative filtering) with optional sentiment-aware recommendations.  
+It provides a FastAPI backend, model training scripts, CF trainer (SVD), and a HuggingFace sentiment pipeline.
 
 ---
 
@@ -162,7 +169,7 @@ pytest -q
 
 ---
 
-## Summary
+##  Summary
 
 - FastAPI backend  
 - Hybrid recommender (Content + CF)  
