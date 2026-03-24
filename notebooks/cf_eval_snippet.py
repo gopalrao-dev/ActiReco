@@ -1,3 +1,4 @@
+# notebooks/cf_eval_snippet.py
 import sys, os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
@@ -10,7 +11,10 @@ from backend.train_cf import build_and_save_cf
 # --------------------------
 # Load and prepare data
 # --------------------------
-inter = pd.read_csv("data/interactions.csv")
+base = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+inter_path = os.path.join(base, "data", "interactions.csv")
+
+inter = pd.read_csv(inter_path)
 inter = inter.sort_values("timestamp")
 
 # Train-test split: last action of each user = test

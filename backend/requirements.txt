@@ -7,3 +7,6 @@ numpy
 python-dotenv
 pytest
 httpx
+transformers
+torch
+scipy

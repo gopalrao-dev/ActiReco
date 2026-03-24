@@ -57,3 +57,77 @@
 2025-09-04 16:49:31 | INFO | ActiReco | GET /health → status=200 latency=278.25ms
 2025-09-04 16:49:41 | INFO | ActiReco | GET /docs → status=200 latency=1.04ms
 2025-09-04 16:49:42 | INFO | ActiReco | GET /openapi.json → status=200 latency=73.60ms
+2026-03-04 00:24:20 | INFO | ActiReco | ActiReco API starting up
+2026-03-04 00:24:25 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2026-03-04 00:24:25 | INFO | ActiReco | Running in debug=False
+2026-03-04 00:38:52 | INFO | ActiReco | GET / → status=404 latency=133.78ms
+2026-03-04 00:38:52 | INFO | ActiReco | GET /favicon.ico → status=404 latency=1.29ms
+2026-03-04 00:39:01 | INFO | ActiReco | GET /docs → status=200 latency=93.95ms
+2026-03-04 00:39:03 | INFO | ActiReco | GET /openapi.json → status=200 latency=830.46ms
+2026-03-04 08:48:41 | INFO | ActiReco | ActiReco API starting up
+2026-03-04 08:48:49 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2026-03-04 08:48:49 | INFO | ActiReco | Running in debug=False
+2026-03-04 08:48:49 | INFO | ActiReco | OPTIONS /recommend_with_mood → status=405 latency=7.75ms
+2026-03-04 08:49:03 | INFO | ActiReco | GET / → status=404 latency=1.20ms
+2026-03-04 08:49:06 | INFO | ActiReco | GET /favicon.ico → status=404 latency=0.72ms
+2026-03-04 08:49:13 | INFO | ActiReco | GET /docs → status=200 latency=15.44ms
+2026-03-04 08:49:15 | INFO | ActiReco | GET /openapi.json → status=200 latency=546.72ms
+2026-03-04 08:51:17 | INFO | ActiReco | OPTIONS /recommend_with_mood → status=405 latency=20.13ms
+2026-03-04 09:02:08 | INFO | ActiReco | OPTIONS /recommend_with_mood → status=405 latency=59.30ms
+2026-03-04 09:06:54 | INFO | ActiReco | ActiReco API starting up
+2026-03-04 09:06:58 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2026-03-04 09:06:58 | INFO | ActiReco | Running in debug=False
+2026-03-04 09:07:21 | INFO | ActiReco | GET / → status=404 latency=0.79ms
+2026-03-04 09:07:28 | INFO | ActiReco | GET /docs → status=200 latency=1.04ms
+2026-03-04 09:07:28 | INFO | ActiReco | GET /openapi.json → status=200 latency=50.45ms
+2026-03-04 09:08:24 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=1894.13ms
+2026-03-04 09:11:12 | INFO | ActiReco | OPTIONS /recommend_with_mood → status=200 latency=20.31ms
+2026-03-04 09:11:14 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=2071.89ms
+2026-03-04 09:22:13 | INFO | ActiReco | OPTIONS /recommend_with_mood → status=200 latency=11.40ms
+2026-03-04 09:22:15 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=1543.32ms
+2026-03-04 13:20:26 | INFO | ActiReco | OPTIONS /recommend_with_mood → status=200 latency=8.08ms
+2026-03-04 13:20:28 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=1986.94ms
+2026-03-04 13:22:42 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=2608.27ms
+2026-03-04 13:23:06 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=91.09ms
+2026-03-04 18:27:14 | INFO | ActiReco | OPTIONS /recommend_with_mood → status=200 latency=31.70ms
+2026-03-04 18:27:16 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=2220.40ms
+2026-03-04 18:35:47 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=1967.51ms
+2026-03-04 18:35:48 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=89.52ms
+2026-03-04 18:35:49 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=87.94ms
+2026-03-04 18:36:13 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=104.77ms
+2026-03-04 18:36:41 | INFO | ActiReco | GET /docs → status=200 latency=12.74ms
+2026-03-04 18:36:42 | INFO | ActiReco | GET /openapi.json → status=200 latency=17.18ms
+2026-03-04 18:38:55 | INFO | ActiReco | OPTIONS /recommend_with_mood → status=200 latency=2.04ms
+2026-03-04 18:38:57 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=1785.85ms
+2026-03-04 18:53:20 | INFO | ActiReco | OPTIONS /recommend_with_mood → status=200 latency=7.88ms
+2026-03-04 18:53:21 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=1316.20ms
+2026-03-04 18:53:22 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=91.16ms
+2026-03-04 18:53:25 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=98.89ms
+2026-03-05 17:18:41 | INFO | ActiReco | OPTIONS /recommend_with_mood → status=200 latency=19.65ms
+2026-03-05 17:18:46 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=4495.34ms
+2026-03-11 10:08:20 | INFO | ActiReco | ActiReco API starting up
+2026-03-11 10:08:31 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2026-03-11 10:08:31 | INFO | ActiReco | Running in debug=False
+2026-03-19 18:32:22 | INFO | ActiReco | ActiReco API starting up
+2026-03-19 18:32:26 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2026-03-19 18:32:26 | INFO | ActiReco | Running in debug=False
+2026-03-19 18:34:26 | INFO | ActiReco | OPTIONS /recommend_with_mood → status=200 latency=25.44ms
+2026-03-19 18:34:31 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=4976.35ms
+2026-03-23 09:47:05 | INFO | ActiReco | ActiReco API starting up
+2026-03-23 09:47:08 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2026-03-23 09:47:08 | INFO | ActiReco | Running in debug=False
+2026-03-23 09:48:26 | INFO | ActiReco | GET / → status=404 latency=0.93ms
+2026-03-23 09:48:28 | INFO | ActiReco | GET /favicon.ico → status=404 latency=0.66ms
+2026-03-23 09:48:35 | INFO | ActiReco | GET /docs → status=200 latency=0.74ms
+2026-03-23 09:48:37 | INFO | ActiReco | GET /openapi.json → status=200 latency=60.04ms
+2026-03-23 09:51:43 | INFO | ActiReco | OPTIONS /recommend_with_mood → status=200 latency=15.45ms
+2026-03-23 09:51:46 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=2650.34ms
+2026-03-23 09:51:59 | INFO | ActiReco | POST /recommend_with_mood → status=200 latency=100.48ms
+2026-03-24 09:36:17 | INFO | ActiReco | ActiReco API starting up
+2026-03-24 09:36:25 | INFO | ActiReco | ✅ Sentiment model loaded successfully
+2026-03-24 09:36:25 | INFO | ActiReco | Running in debug=False
+2026-03-24 09:37:16 | INFO | ActiReco | GET / → status=404 latency=32.82ms
+2026-03-24 09:37:18 | INFO | ActiReco | GET /favicon.ico → status=404 latency=1.88ms
+2026-03-24 09:37:59 | INFO | ActiReco | GET /docs → status=200 latency=19.66ms
+2026-03-24 09:38:01 | INFO | ActiReco | GET /openapi.json → status=200 latency=1185.88ms
+2026-03-24 10:39:25 | INFO | ActiReco | OPTIONS /recommend_with_mood → status=200 latency=116.00ms
